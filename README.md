@@ -5,9 +5,14 @@ DD Liberator 3D Gun Blueprint
 
 This is the Defense Distributed 3D Printed Gun Template. 
 
+State Department Demands Blueprint Removed:
+http://techcrunch.com/2013/05/09/state-department-demands-3-d-gun-blueprints-be-removed/
 
+ITAR:
+http://pmddtc.state.gov/regulations_laws/itar_official.html
 
-
+Court Strikes Down ITAR:
+http://cr.yp.to/export/1996/1206-order.txt
 
 
 
